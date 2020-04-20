@@ -14,9 +14,9 @@ The Azure Pipelines Operator will allow you to configure a full and scalable bui
 
 After installing the operator and configuring the credentials secret (Personal Access Token), the azure-pipelines-controller will be able to communicate and track the build queues.
 
-<br/><kbd>
+<kbd>
   <img src="/doc/images/general-diagram.png" width="600">
-</kbd><br/>
+</kbd><br/><br/>
 
 To configure an Agent Pool to run using kubernetes jobs just create an “AgentPoolDefinition” resource as described below:
 
