@@ -4,10 +4,11 @@
 # **NOTE: THIS PROJECT IS CURRENTLY IN DEVELOPMENT**
 ---
 
+The Azure Pipelines Operator is an open source project designed, developed and maintained by the Devops Team at **Sela Group**.
 
 ## Description
 
-The Azure Pipelines Operator will allow you to configure a full and scalable build infrastructure in kubernetes by creating on-demand build agents by request. It's an open source project designed, developed and maintained by the Devops Team at **Sela Group**.
+The Azure Pipelines Operator will allow you to configure a full and scalable build infrastructure in kubernetes by creating on-demand build agents by request. 
 
 
 ## How It Works
