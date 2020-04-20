@@ -1,10 +1,9 @@
 # Azure Pipelines Operator
+The Azure Pipelines Operator is an open source project designed, developed and maintained by the Devops Team at **Sela Group**.
 
 ---
 # **NOTE: THIS PROJECT IS CURRENTLY IN DEVELOPMENT**
 ---
-
-The Azure Pipelines Operator is an open source project designed, developed and maintained by the Devops Team at **Sela Group**.
 
 ## Description
 
